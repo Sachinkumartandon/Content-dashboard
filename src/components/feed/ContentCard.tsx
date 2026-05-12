@@ -21,7 +21,7 @@ import { toggleFavorite }          from '@/store/favoritesSlice'
 import { selectIsFavorited }       from '@/store/favoritesSlice'
 import { cn }                      from '@/lib/utils'
 import {
-  getImageUrl,
+  
   getCardSubtitle,
   getCtaLabel,
   formatNumber,

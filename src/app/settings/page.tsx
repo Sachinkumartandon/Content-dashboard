@@ -36,7 +36,7 @@ import {
   SUPPORTED_LANGUAGES,
   ITEMS_PER_PAGE_OPTIONS,
 }                                    from '@/lib/constants'
-import type { Metadata }             from 'next'
+
 
 
 // ─── Section Wrapper ──────────────────────────────────────────────────────────

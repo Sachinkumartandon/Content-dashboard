@@ -6,7 +6,7 @@
 
 import { clsx, type ClassValue } from 'clsx'
 import { twMerge } from 'tailwind-merge'
-import type { ContentItem, NewsArticle, Movie, SocialPost, RawNewsArticle, RawMovie } from '@/types'
+import type { ContentItem, NewsArticle, Movie, RawNewsArticle, RawMovie } from '@/types'
 import { TMDB_IMAGE_SIZES, TMDB_GENRE_MAP, FALLBACK_IMAGES } from '@/lib/constants'
 
 

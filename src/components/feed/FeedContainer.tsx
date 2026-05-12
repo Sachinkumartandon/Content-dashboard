@@ -106,7 +106,7 @@ export default function FeedContainer() {
   const {
     data:      searchData,
     isLoading: searchLoading,
-    refetch:   refetchSearch,
+  
   } = useSearchAllQuery(
     { query: searchQuery },
     { skip: !isSearching }
