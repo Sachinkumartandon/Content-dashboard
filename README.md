@@ -2,13 +2,13 @@
 
 A modern, interactive personalized content dashboard built with **Next.js 14**, **TypeScript**, **Redux Toolkit**, and **Tailwind CSS**. Fetches real-time news, movie recommendations, and social media posts in one unified feed.
 
-![ContentDash](https://via.placeholder.com/1200x600?text=ContentDash+Preview)
+
 
 ---
 
 ## 🚀 Live Demo
 
-🔗 **[View Live Demo](https://your-deployment-url.vercel.app)**
+🔗 **[View Live Demo](https://content-dashboard-kappa-ruby.vercel.app/)**
 
 ---
 
@@ -260,8 +260,8 @@ All API routes are server-side. API keys never reach the browser.
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your-email@example.com
+- GitHub: [@your-username](https://github.com/Sachinkumartandon)
+- Email: your-sachinkumartandan85@example.com
 
 ---
 
